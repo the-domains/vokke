@@ -1,0 +1,28 @@
+name: "Vokke'"
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7808511
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#383917'
+    - '#426577'
+    - '#FFE9BD'
+    - '#FBFB3A'
+    - '#A34202'
+  brandStrength: 0
+  lightness: 0.6957447
+  saturation: 0.3125
+  rhythmicContrast: 0.2510638
+purpose: []
