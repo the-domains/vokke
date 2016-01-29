@@ -1,28 +1,26 @@
-name: "Vokke'"
-favicon: null
-layout_spectrum: 0.64442
-typography_spectrum: 0.87456
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.7808511
 color:
+  saturation: 0.2638298
+  brandStrength: 0.2702128
+  rhythmicContrast: 0.2510638
   brandColors:
     - '#383917'
     - '#426577'
     - '#FFE9BD'
     - '#FBFB3A'
     - '#A34202'
-  brandStrength: 0.5625
   lightness: 0.6957447
-  saturation: 0.3125
-  rhythmicContrast: 0.2510638
-purpose: []
+layout_spectrum: 0.5489362
+name: "Vokke'"
